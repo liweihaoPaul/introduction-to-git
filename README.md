@@ -8,5 +8,6 @@ my notes from the intro to Git tutorial in Sep 2019
 - git commit -a -m
 - git push: update remote respitory
 - git remote -v: 
+- modified by li wei hao
 
 
